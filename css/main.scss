@@ -62,3 +62,8 @@ form {
     outline: none;
   }
 }
+
+.hidden {
+  position: absolute;
+  left: -5000px;
+}
